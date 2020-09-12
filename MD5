@@ -1,4 +1,4 @@
-53b33cb359cec8a9ecc5337c1da0ae5c *DESCRIPTION
+1331d9e832bd9a5b79990e8a28861b7d *DESCRIPTION
 3132a2fbe9d9628a4676c7194ff3f53d *LICENSE
 0fc56fc375226f890847eef38b1907c9 *NAMESPACE
 420327d7e5c973dcd827fcd51c0d7dc9 *NEWS.md
@@ -6,14 +6,14 @@
 f5f0bd3a6e1c44487efbdb8b55d4e504 *R/combinadic.R
 90e4a2e49417826ad164a1b40c15d9be *R/nerve.R
 84a1676261b36befc3445fdf64eace52 *R/rips.R
-59167da15249155def38f4cce3ce22ea *R/simplex_tree.R
+8ecb03c5500d829c4137dd9cc749d7ad *R/simplex_tree.R
 a5d3e72f63ffc6b2ab2493637ec3e7ce *R/simplextree-package.R
 0155d9c894d21e00a733de7d4871e2f6 *R/union_find.R
 65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
 bf57264e18eed4b38d5d50dfca35db1b *inst/include/UnionFind.h
-e256e7ff487996e23941b0b461d38ab7 *inst/include/simplextree.h
-ba0460aa27cc1590b1c5893bab26e2b7 *inst/include/simplextree/st.hpp
-8ef88308c52ef9f641135dec79b741d5 *inst/include/simplextree/st_filtration.hpp
+4787065cca3b4df593efbe6029d7161b *inst/include/simplextree.h
+3b88b3d6bab505b9c9b08ae295b66530 *inst/include/simplextree/st.hpp
+3039fc4afd8f74702c2f86ca18031865 *inst/include/simplextree/st_filtration.hpp
 11b756c2e494ace347ecfb4c0172e75b *inst/include/simplextree/st_iterators.hpp
 7a9f06c603479f8808046f8ecf5b22e1 *inst/include/utility/combinations.h
 ef5b4ee8074039a5574fbadaaadafc49 *inst/include/utility/delegate.hpp
@@ -52,7 +52,7 @@ d0568173a8f8074c703eb8e8e8d1fafe *man/k_simplices.Rd
 39578e74b1870d7aa4e5e256f84b640e *man/nat_to_sub.Rd
 76d430bcee1e4a4443aabf5cc23a284b *man/nerve.Rd
 4894ca10756199e25f914bfd34f517b0 *man/pipe.Rd
-8916fe50ad0ba409be88b70a1ef346eb *man/plot.simplextree.Rd
+360b8c1e8866377a807d0bcd35f6e21a *man/plot.simplextree.Rd
 495f268347d3282028fceeda134ad00f *man/plot_simplextree.Rd
 38705e417a8be4ed1835b260a2c9633d *man/preorder.Rd
 bdf9ef4c087cf3213113529871cfa41a *man/print.st_traversal.Rd
@@ -73,6 +73,6 @@ f8ff5eac1a5bd2c2532456d19c16637c *src/RcppExports.cpp
 91f0a255ff94e75f6f8b0a2edd2dcd99 *src/UnionFind.cpp
 8d8a230fd6076eb7cbb70568878a981b *src/discreteR.cpp
 c16158322b2506155bdf704ae5f2c67b *src/nerve.cpp
-9c53246a64b7242cadcaccad476b7e88 *src/simplextree_module.cpp
+803c03df54b52b65a40ba3eb21c1a7e3 *src/simplextree_module.cpp
 2dbbc9ff1c756337eb904a2c53b7f732 *tests/testthat.R
-a7951913b5cde48a01fb7a24e9391d68 *tests/testthat/test_simplex_tree.R
+44be714df1d9d24df1450aaf03d51505 *tests/testthat/test_simplex_tree.R
